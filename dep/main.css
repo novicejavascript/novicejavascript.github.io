@@ -1,0 +1,26 @@
+#run{
+    padding-left: 20px;
+    padding-right: 25px;
+    border-radius: 0%;
+}
+
+#save{
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 0%;
+}
+
+#image{
+    height: 40px;
+    width: 40px;
+}
+
+#title{
+    color: #80BD01;
+}
+
+#saveas{
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 0%;
+}
